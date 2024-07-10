@@ -2,7 +2,6 @@
 A Python application crafted to swiftly estimate monthly loan payments. Simply input your loan amount, annual interest rate, and loan term in months to receive instant projections of your monthly and daily payments. The app boasts intuitive controls, robust error handling for inaccurate inputs, and a user-friendly interface for seamless navigation.
 
 
-
 ## Table of Contents
 
 - [Features](#features)
@@ -40,6 +39,8 @@ A Python application crafted to swiftly estimate monthly loan payments. Simply i
 3. **Calculate**:
    - Click the "Estimation" button to compute the monthly payment.
    - View the results displayed on the screen.
+     
+![Screenshot 2024-07-11 011717](https://github.com/kingofallsnakes/Loan-Estimator/assets/153209531/fa065cf0-e763-4aca-b136-28d8dca23bd3)
 
 ## How to Run
 
@@ -47,7 +48,8 @@ To start the application, execute `python main.py` in your terminal. Ensure Pyth
 
 ## Screenshots
 
-![Loan Calculator App Screenshot](screenshot.png)
+![Screenshot 2024-07-11 011607](https://github.com/kingofallsnakes/Loan-Estimator/assets/153209531/e8eacb2e-0f00-4ad5-9c38-a900bcafd8cf)
+![Screenshot 2024-07-11 011659](https://github.com/kingofallsnakes/Loan-Estimator/assets/153209531/a1cf6340-bc4b-4f29-bf24-9e3be677aaf1)
 
 ## Contributing
 
